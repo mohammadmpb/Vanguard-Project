@@ -9,6 +9,11 @@ Markdown
 ![Security](https://img.shields.io/badge/Security-Encrypted%20DB-red)
 
 ## 📖 Overview
+## 📸 Screenshots
+<div align="center">
+  <img src="assets/screenshot1.png" width="45%" />
+  <img src="assets/screenshot2.png" width="45%" />
+</div>
 **Vanguard** is a comprehensive, AI-powered security monitoring system designed for universities and restricted areas. It combines computer vision state-of-the-art models to control traffic and human access in real-time.
 
 Unlike simple detection scripts, Vanguard features a **secure encrypted database**, a modern GUI, and optimized performance for real-time processing.
