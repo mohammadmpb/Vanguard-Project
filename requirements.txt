@@ -1,0 +1,10 @@
+opencv-python
+numpy
+pillow
+ultralytics
+insightface
+onnxruntime-gpu
+ttkbootstrap
+arabic-reshaper
+python-bidi
+cryptography
